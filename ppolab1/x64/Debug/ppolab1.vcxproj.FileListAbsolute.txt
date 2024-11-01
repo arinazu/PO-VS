@@ -1,0 +1,2 @@
+C:\Projects\C\PPO\ppolab1\x64\Debug\ppolab1.exe
+d:\Projects\C\PT PPO VC\ppolab1\ppolab1\x64\Debug\ppolab1.exe
