@@ -1,0 +1,93 @@
+{
+  "550e8400-e29b-41d4-a716-446655440000": {
+    "Id": "550e8400-e29b-41d4-a716-446655440000",
+    "Definition": "123456789",
+    "Name": "23456",
+    "Price": 2345,
+    "Image": "567"
+  },
+  "edbc572a-32c5-4b88-a509-e3ff3fe09c45": {
+    "Id": "edbc572a-32c5-4b88-a509-e3ff3fe09c45",
+    "Definition": "5",
+    "Name": "6",
+    "Price": 7,
+    "Image": "8"
+  },
+  "3b487aed-e02f-4524-a5d5-342e59849e48": {
+    "Id": "3b487aed-e02f-4524-a5d5-342e59849e48",
+    "Definition": "chr",
+    "Name": "2",
+    "Price": 2,
+    "Image": "2"
+  },
+  "6ddd7c62-4e33-45f4-a03d-b54539c21b0a": {
+    "Id": "6ddd7c62-4e33-45f4-a03d-b54539c21b0a",
+    "Definition": "4",
+    "Name": "3",
+    "Price": 3,
+    "Image": "5"
+  },
+  "63cbdd27-aaf5-4a67-947b-1a6b07d09fae": {
+    "Id": "63cbdd27-aaf5-4a67-947b-1a6b07d09fae",
+    "Definition": "9",
+    "Name": "9",
+    "Price": 8,
+    "Image": "9"
+  },
+  "c0e30da6-20cc-4161-99f8-35d45c8cd0b9": {
+    "Id": "c0e30da6-20cc-4161-99f8-35d45c8cd0b9",
+    "Definition": "1",
+    "Name": "44",
+    "Price": 3,
+    "Image": "8"
+  },
+  "b83bbc69-5e7d-4ea4-8146-72a0bf44971e": {
+    "Id": "b83bbc69-5e7d-4ea4-8146-72a0bf44971e",
+    "Definition": "5",
+    "Name": "5",
+    "Price": 55,
+    "Image": "5"
+  },
+  "5b464a3f-de03-4f8a-b941-762149c43387": {
+    "Id": "5b464a3f-de03-4f8a-b941-762149c43387",
+    "Definition": "1",
+    "Name": "2",
+    "Price": 3,
+    "Image": "4"
+  },
+  "218f9648-f21d-45ad-90dc-7acf24ba9049": {
+    "Id": "218f9648-f21d-45ad-90dc-7acf24ba9049",
+    "Definition": "\u0446",
+    "Name": "\u0443",
+    "Price": 1,
+    "Image": "1"
+  },
+  "4d19c46e-41f9-449d-9d2f-8fa96a5265b3": {
+    "Id": "4d19c46e-41f9-449d-9d2f-8fa96a5265b3",
+    "Definition": "1",
+    "Name": "2",
+    "Price": 3,
+    "Image": "4"
+  },
+  "3296830b-254a-44fd-b7ea-2b41e81db914": {
+    "Id": "3296830b-254a-44fd-b7ea-2b41e81db914",
+    "Definition": "2",
+    "Name": "2",
+    "Price": 2,
+    "Image": "2"
+  },
+  "806f92f6-7d2d-44f8-a549-54c86a157b5d": {
+    "Id": "806f92f6-7d2d-44f8-a549-54c86a157b5d",
+    "Definition": "1",
+    "Name": "2",
+    "Price": 3,
+    "Image": "444"
+  },
+  "0f2891f5-56c3-4ee3-a705-b8fc25634aa6": {
+    "Id": "0f2891f5-56c3-4ee3-a705-b8fc25634aa6",
+    "Definition": "1234",
+    "Name": "234",
+    "Price": 12234567,
+    "Image": "2345"
+  }
+}
